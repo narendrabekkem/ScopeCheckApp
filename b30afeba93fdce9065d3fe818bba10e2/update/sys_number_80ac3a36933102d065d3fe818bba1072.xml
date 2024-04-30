@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1329894_scopeche_table_one">x_1329894_scopeche_table_one</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TAB</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>narendranath.reddy</sys_created_by>
+        <sys_created_on>2024-04-30 07:04:59</sys_created_on>
+        <sys_id>80ac3a36933102d065d3fe818bba1072</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TAB</sys_name>
+        <sys_package display_value="ScopeCheckApp" source="x_1329894_scopeche">b30afeba93fdce9065d3fe818bba10e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ScopeCheckApp">b30afeba93fdce9065d3fe818bba10e2</sys_scope>
+        <sys_update_name>sys_number_80ac3a36933102d065d3fe818bba1072</sys_update_name>
+        <sys_updated_by>narendranath.reddy</sys_updated_by>
+        <sys_updated_on>2024-04-30 07:04:59</sys_updated_on>
+    </sys_number>
+</record_update>
