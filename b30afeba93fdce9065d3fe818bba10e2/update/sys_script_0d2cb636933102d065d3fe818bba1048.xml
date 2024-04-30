@@ -30,6 +30,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	gs.addInfoMessage('Record Created Successfully'+ current.number);
+	gs.info('Record Created Successfully'+ current.number)
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -38,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0d2cb636933102d065d3fe818bba1048</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Record Created Successfully</sys_name>
         <sys_overrides/>
         <sys_package display_value="ScopeCheckApp" source="x_1329894_scopeche">b30afeba93fdce9065d3fe818bba10e2</sys_package>
@@ -46,7 +47,7 @@
         <sys_scope display_value="ScopeCheckApp">b30afeba93fdce9065d3fe818bba10e2</sys_scope>
         <sys_update_name>sys_script_0d2cb636933102d065d3fe818bba1048</sys_update_name>
         <sys_updated_by>narendranath.reddy</sys_updated_by>
-        <sys_updated_on>2024-04-30 07:05:25</sys_updated_on>
+        <sys_updated_on>2024-04-30 07:22:25</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
